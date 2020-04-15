@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+
+<html lang="en">
+    <head>
+        <title>COVID-19</title>
+        <meta charset="utf-8">
+        <script src="api.js"></script>
+        <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+        <style>
+            select {
+                width: 200px;
+                height: 30px;
+                background-color: DodgerBlue;
+                color: white;
+            }
+            
+        </style>
+        
+        
+    </head>
+    <br>
+<!--    <center>-->
+    <body onload="loadRepoGroups()">
+<!--        <div>-->
+            <center><label for="repoGroup">Country: </label>
+            <select id="repoGroup" onchange="loadRepos()">
+            </select>
+            <br><br>
+            Total Cases in Country : <span id="repos">0</span><br>
+            Total Cases in World   : <span id="world">0</span><br>
+            Percent : <span id="percent">0</span> %</center>
+            
+            <center><div id="piechart"></div></center>
+            
+            
+<!--            <label for="repos">Repo: </label>-->
+<!--            <select id="repos" >-->
+<!-- -->
+<!--            </select>-->
+
+            
+<!--            <button type="submit" onclick="loadData()">GO!</button>-->
+<!--        </div>-->
+<!--        <div>-->
+<!--            <h1>Top Committers</h1>-->
+<!--            <h1></h1>-->
+<!--            <br><br>-->
+<!--            -->
+<!--            <ul Id="toplist" style="list-style-type:square;">-->
+<!---->
+<!--            </ul>-->
+<!--        </div>-->
+        
+        
+        
+    
+    </body>
+<!--    </center>-->
+</html>
+
