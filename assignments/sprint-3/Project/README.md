@@ -24,4 +24,4 @@
 ## Tools Providing the Metric
 - Health data API from https://api.covid19api.com/
 ### Summary Cases:
--> https://api.covid19api.com/summary
+    * https://api.covid19api.com/summary
