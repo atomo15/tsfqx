@@ -7,6 +7,5 @@
 - Unzip the file
 - cd swe-sprint4
 - $ sails lift
-- open browser 
 - http://localhost:1337/
 
