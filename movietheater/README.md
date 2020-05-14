@@ -1,5 +1,8 @@
 # Movietheater Project:
 
+## Download XAMPP:
+- https://sourceforge.net/projects/xampp/
+
 ## See the database:
 - http://localhost:8080/phpmyadmin/
 
