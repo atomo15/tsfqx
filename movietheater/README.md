@@ -21,7 +21,7 @@
 3. Create New Databases:
 - Name: **movie**
 - Collection: **utf8_unicode_ci**
-4. Go to movie -> import -> choose movie.sql
+4. Go to movie -> import -> choose movie.sql -> Go
 
 ## Manage the database:
 - http://localhost:8080/phpmyadmin/
