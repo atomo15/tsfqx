@@ -175,7 +175,7 @@ body {
     $sql="INSERT INTO log_login(email,status,typelogout)
             VALUES ('$emaillog', '0','MANUAL')";
     if(!mysqli_query($con,$sql)){die('Error: ' . mysqli_error($con));}
-    header("refresh: 0; url = http://localhost/projectv2/member.php");}
+    header("refresh: 0; url = http://localhost:8080/projectv2/member.php");}
   }
   
     
