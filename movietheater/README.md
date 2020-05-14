@@ -1,6 +1,6 @@
 # Movietheater Project:
 
-## Download XAMPP:
+## Download XAMPP 1.0.3:
 - https://sourceforge.net/projects/xampp/
 ### Start service:
 1. General -> Start
