@@ -13,7 +13,7 @@
 1. Download All file in projectv2 
 2. XAMPP -> Volumes -> Explore
 3. Iampp -> htdocs 
-4. Paste projectv2 folder here
+4. Paste projectv2 folder here!
 
 ## See the database:
 - http://localhost:8080/phpmyadmin/
