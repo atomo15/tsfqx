@@ -1721,12 +1721,12 @@ mysqli_close($con);
     /*ADD MOVIE IN SHOWTIME PROCESS*/
     if(!empty($_POST['addmovieinshowtimeprocess']))
     {
-      echo "hello";
+      //echo "hello";
       $displaymenu = 0;
       if(!empty($_POST['theater'])&&!empty($_POST['branchid'])
         &&!empty($_POST['movienames'])&&!empty($_POST['showtimes']))
       {
-        echo "hello2";
+        //echo "hello2";
         /*echo $_POST['theater'].'<br>'.$_POST['branchid'].'<br>'.
         $_POST['movienames'].'<br>'.$_POST['showtimes'].'<br>'.$_POST['Audio'].'<br>';*/
         $con = mysqli_connect("localhost","root","","movie");
@@ -2194,7 +2194,7 @@ mysqli_close($con);
         }
       mysqli_close($con);  
     }
-    echo "<br><br><center>".$sql2."</center><br><br>";
+    //echo "<br><br><center>".$sql2."</center><br><br>";
     /*ADD THEATER PROCESS*/
 
     /*DELETE THEATER FORM*/
