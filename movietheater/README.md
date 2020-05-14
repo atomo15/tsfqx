@@ -19,9 +19,8 @@
 1. Download movie.sql
 2. Go to http://localhost:8080/phpmyadmin/
 3. New Databases 
-
-Name: *movie*
-Collection: **utf8_unicode_ci**
+- Name: *movie
+- Collection: **utf8_unicode_ci**
 
 ## Manage the database:
 - http://localhost:8080/phpmyadmin/
