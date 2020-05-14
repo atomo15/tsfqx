@@ -9,7 +9,7 @@
 3. Network -> Enable (localhost:8080 -> 80(Over SSH))
 4. Volumes -> Mount
 
-### To Setup the component:
+### To Setup the project:
 1. Download All file in projectv2 
 2. XAMPP -> Volumes -> Explore
 3. Iampp -> htdocs 
