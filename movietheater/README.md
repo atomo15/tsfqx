@@ -2,7 +2,8 @@
 
 ## Download XAMPP 1.0.3:
 - https://sourceforge.net/projects/xampp/
-### Start service:
+
+### Start service on XAMPP:
 1. General -> Start
 2. Services -> Start (MySQL + Apache) 
 3. Network -> Enable (localhost:8080 -> 80(Over SSH))
