@@ -15,7 +15,15 @@
 3. Iampp -> htdocs 
 4. Paste projectv2 folder here!
 
-## See the database:
+### To Setup the Database:
+1. Download movie.sql
+2. Go to http://localhost:8080/phpmyadmin/
+3. Create New Databases:
+- Name: **movie**
+- Collection: **utf8_unicode_ci**
+4. Go to movie -> import -> choose movie.sql -> Go
+
+## Manage the database:
 - http://localhost:8080/phpmyadmin/
 
 ## Homepage site:
