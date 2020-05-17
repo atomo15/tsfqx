@@ -23,6 +23,11 @@
 - Collection: **utf8_unicode_ci**
 4. Go to movie -> import -> choose movie.sql -> Go
 
+### To Run the web application:
+1. Start service on XAMPP
+2. Go to http://localhost:8080/projectv2/member.php
+- Note: If it has already login, please click on profile and logout.
+
 ## Manage the database:
 - http://localhost:8080/phpmyadmin/
 
