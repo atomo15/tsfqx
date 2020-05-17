@@ -29,6 +29,10 @@ if you already create and import movie.sql, you can skip this step
 2. Go to http://localhost:8080/projectv2/member.php
 - Note: If it has already login, please click on profile and logout.
 
+### To Test SSO:
+- http://localhost:8080/projectv2/member.php
+- Hit sign in google button
+
 ## Manage the database:
 - http://localhost:8080/phpmyadmin/
 
