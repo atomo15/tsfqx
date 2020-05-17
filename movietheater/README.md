@@ -1,4 +1,4 @@
-# Movietheater Project: Assignment 13b
+# Movietheater Project: Assignment 13c
 
 ## Download XAMPP 1.0.3:
 - https://sourceforge.net/projects/xampp/
