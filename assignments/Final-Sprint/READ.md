@@ -30,8 +30,16 @@ if you already create and import movie.sql, you can skip this step
 - Note: If it has already login, please click on profile and logout.
 
 ## To Test SSO:Progress from Assignment 13b to be Final-Sprint
+### Login Member Section
 - http://localhost:8080/projectv2/member.php
 - Hit sign in google button
+### Booking the seat: Redirect to Login First and Back to Theater to Booking
+- Logout from http://localhost:8080/projectv2/member.php
+- Pick the movie and Branch on the dropdown, then hit the red button (SHOW TIME)
+- Pick the showtimes (Timezone based on Bangkok, Thailand(GMT +7))
+- Wait until the seats are show.
+- Select the seat
+- Hit the Checkuot button
 
 ## Manage the database:
 - http://localhost:8080/phpmyadmin/
