@@ -29,7 +29,7 @@ if you already create and import movie.sql, you can skip this step
 2. Go to http://localhost:8080/projectv2/member.php
 - Note: If it has already login, please click on profile and logout.
 
-## To Test SSO:Progress from Assignment 13b to be Final-Sprint
+## To Test SSO:Progress from Assignment 13c to be Final-Sprint
 ### Login Member Section
 - http://localhost:8080/projectv2/member.php
 - Hit sign in google button
