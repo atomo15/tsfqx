@@ -1,4 +1,4 @@
-# Movietheater Project:
+# Movietheater Project: Final-Sprint
 
 ## Download XAMPP 1.0.3:
 - https://sourceforge.net/projects/xampp/
