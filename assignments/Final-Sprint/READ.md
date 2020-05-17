@@ -13,9 +13,10 @@
 1. Download All file in projectv2 
 2. XAMPP -> Volumes -> Explore
 3. Iampp -> htdocs 
-4. Paste projectv2 folder here!
+4. Replace projectv2 folder here!
 
 ### To Setup the Database:
+if you already create and import movie.sql, you can skip this step
 1. Download movie.sql
 2. Go to http://localhost:8080/phpmyadmin/
 3. Create New Databases:
