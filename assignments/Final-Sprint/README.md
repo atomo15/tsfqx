@@ -39,7 +39,9 @@ if you already create and import movie.sql, you can skip this step
 - Pick the showtimes (Timezone based on Bangkok, Thailand(GMT +7))
 - Wait until the seats are show.
 - Select the seat
-- Hit the Checkuot button
+- Hit the Checkout button
+- Then, it would be direct you to login in first.
+- after that, it will be redirect you to the same page (booking seat)
 
 ## Manage the database:
 - http://localhost:8080/phpmyadmin/
